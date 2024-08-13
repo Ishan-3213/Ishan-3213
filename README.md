@@ -3,8 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishan-3213&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan-3213&locale=en&exclude_repo=Django-Project,django-examples,Activity-Recognition-Using-Predictive-Analytics,datasciencecoursera,Pratical-Machine-Learning,RepData_PeerAssessment1,Activity-Recognition-Using-Predictive-Analytics,The-Sparks-Foundation-Tasks,Django-Project-Todo&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishan-3213&theme=radical&no-frame=true&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+  
 </div>
 
 ###
