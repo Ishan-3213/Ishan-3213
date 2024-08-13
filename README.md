@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Ishan-3213/Ishan-3213/raw/output/dist/snake.svg)
+![Snake animation](https://github.com/Ishan-3213/Ishan-3213/blob/output/snake.svg)
 
 
 ###
