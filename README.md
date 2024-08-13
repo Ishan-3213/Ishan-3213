@@ -27,6 +27,7 @@
 
 <div align="left">
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
   
@@ -66,6 +67,9 @@
 
 ###
 <br>
+
+---
+
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.facebook.com/ishan.pansuriya" target="_blank" rel="noopener noreferrer">
