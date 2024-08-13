@@ -10,7 +10,11 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan-3213&locale=en&exclude_repo=Django-Project,django-examples,Activity-Recognition-Using-Predictive-Analytics,datasciencecoursera,Pratical-Machine-Learning,RepData_PeerAssessment1,Activity-Recognition-Using-Predictive-Analytics,The-Sparks-Foundation-Tasks,Django-Project-Todo&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishan-3213&theme=radical&no-frame=true&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<br><br><br>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishan-3213&theme=radical&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 </div>
@@ -22,6 +26,7 @@
 ###
 
 <div align="left">
+
 
 ### :hammer_and_wrench: Languages and Tools :
   
@@ -60,6 +65,7 @@
 </div>
 
 ###
+<br>
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.facebook.com/ishan.pansuriya" target="_blank" rel="noopener noreferrer">
