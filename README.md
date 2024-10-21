@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! <br>
-  I'm Ishan Pansuriya, Software/Data Engineer newbie :) , from Montreal, QC. <br>
+  I'm Ishan Pansuriya, Software/Data Engineer newbie :) , from Canada. <br>
   Nice To Meet you 🙌. 
 </h2>
 
